@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: mhub123/prof:move
+        image: mhub123/my-portfolio:portfolio
         ports:
         - containerPort: 3000   # Use port 3000
 
